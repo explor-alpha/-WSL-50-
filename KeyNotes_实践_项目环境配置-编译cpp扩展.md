@@ -1,5 +1,7 @@
 > 本文档——更偏向**实践**
+> 
 > ==**"KeyNotes_理论_CUDA & （Python with gpu）环境中cpp扩展的编译"**==——更偏向**理论**
+> 
 > ==**"KeyNotes_系统_项目环境配置（Python with gpu）"**==——更偏向**系统**
 
 ```bash
